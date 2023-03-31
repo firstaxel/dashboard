@@ -127,6 +127,7 @@ const App = (props: React.PropsWithChildren) => {
                     canDelete: true,
                   },
                 },
+                
               ]}
               options={{
                 syncWithLocation: true,
